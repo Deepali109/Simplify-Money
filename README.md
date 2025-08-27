@@ -68,7 +68,16 @@ yarn install
 ```bash
 npx expo start
 ```
-### 4. Run on device/emulator
+### 4. Get API kEY
+Go to website-
+ ```bash
+https://www.goldapi.io/
+```
+-Create your account and then get your API_KEY.
+
+-Go to the api folder of the project and paste this API_KEY in the metalAPI.js file.
+
+### 5. Run on device/emulator
 
 Scan the QR code in Expo Go app (Android/iOS)
 
