@@ -55,7 +55,7 @@ Rotating gradient border animation around the card
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MetalPriceApp.git
+git clone https://github.com/Deepali109/Simplify-Money.git
 cd MetalPriceApp
 ```
 ### 2.Install dependencies
