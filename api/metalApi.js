@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "goldapi-fx3z8smesusui0-io"; // Replace with your actual API key
+const API_KEY = "API_KEY"; // Replace with your actual API key
 
 export const getMetalPrice = async (metal) => {
   const symbolMap = {
