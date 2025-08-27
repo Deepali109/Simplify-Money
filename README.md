@@ -76,11 +76,9 @@ Or press a (Android emulator) / i (iOS simulator)
 
 ## 📸 Screenshots
 
-👉 Add your screenshots here
+<p align="center">
+  <img src="screenshots/ss1.jpeg" alt="Home Screen" width="250" />
+ &nbsp;&nbsp;&nbsp; <!-- adds gap -->
+  <img src="screenshots/ss2.jpeg" alt="Detail Screen" width="250" />
+</p>
 
-### Home Screen
-![Home Screen](https://github.com/username/repo-name/assets/123456/home.png)
-
-## 🎥 Demo
-
-<img src="./screenshots/demo.gif" alt="App Demo" width="300" />
